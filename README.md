@@ -21,7 +21,7 @@
 
 ### 📚 Currently Studying
 <p align="left">
-  <img src="[https://goktugaygun.com/images/skills/PL/Assembly.png](https://img.icons8.com/?size=100&id=gVK745a4Vaur&format=png&color=000000)" height="40" alt="Assembly (ASM)" title="Assembly (ASM)" />
+  <img src="https://user-images.githubusercontent.com/103866722/194773833-8571f323-4fa8-4036-a51c-57b9d29c683b.svg" height="40" alt="Assembly (ASM)" title="Assembly (ASM)" />
   <img src="https://avatars.githubusercontent.com/u/75212346?v=4" height="40" alt="Ghidra" title="Reverse Engineering" />
   <img src="https://static.wikitide.net/zenithwiki/0/0d/IDAIcon.png" height="40" alt="IDA" title="Reverse Engineering" />
 </p>
