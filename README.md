@@ -18,15 +18,16 @@
 
 ---
 
-### 📖 Currently Studying
+### 🛠️ Reverse Engineering Tools
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/NationalSecurityAgency/ghidra/master/Ghidra/Features/Base/src/main/resources/images/GHIDRA_3.png" height="48" alt="Ghidra" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Mme_de_Maintenon.jpg" height="48" alt="IDA" />
+  <img src="https://raw.githubusercontent.com/cheat-engine/cheat-engine/master/Cheat%20Engine/images/celogo.png" height="48" alt="Cheat Engine" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=14&duration=3000&pause=500&color=FF6B6B&center=true&vCenter=true&width=350&lines=Reverse+Engineering+%26+Low-level;Assembly+%7C+Ghidra+%7C+IDA+Pro;Diving+deeper+every+day" alt="StudyTyping" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=14&duration=3000&pause=500&color=FF6B6B&center=true&vCenter=true&width=350&lines=Reverse+Engineering+%26+Low-level;Ghidra+%7C+IDA+Pro+%7C+Cheat+Engine;Diving+deeper+every+day" alt="RETyping" />
 </p>
 
 ---
