@@ -14,6 +14,17 @@
 
 ---
 
+### 🤖 AI Tools
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-IA-000?style=for-the-badge&logo=openai&logoColor=00E5FF" />
+  <img src="https://raw.githubusercontent.com/anomalyco/opencode/master/packages/console/app/src/asset/brand/opencode-logo-light-square.svg" height="28" alt="OpenCode" />
+  <img src="https://img.shields.io/badge/-Hermes-000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxZW0iIGhlaWdodD0iMWVtIiB2aWV3Qm94PSIwIDAgMjQgMjQiPjxwYXRoIGZpbGw9IiNmZmQ3MDAiIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyem0tMiAxNWwtNS01IDEuNDEtMS40MUwxMCAxNC4xN2w3LjU5LTcuNTlMMTkgOHoiLz48L3N2Zz4=&logoColor=FFD700" />
+  <img src="https://dl.svgcdn.com/svg/token-branded/codex.svg" height="28" alt="Codex" />
+</p>
+
+---
+
 ### 📖 Currently Studying
 
 <p align="center">
