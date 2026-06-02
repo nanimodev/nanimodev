@@ -18,8 +18,8 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=asm" height="44" alt="Assembly" />
-  <a href="https://ghidra-sre.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Ghidra_logo.svg" height="44" alt="Ghidra" title="Ghidra - NSA Reverse Engineering Framework" /></a>
-  <a href="https://hex-rays.com/ida-pro/"><img src="https://static.cdnlogo.com/logos/i/39/ida.png" height="44" alt="IDA Pro" title="IDA Pro - Hex-Rays Disassembler &amp; Decompiler" /></a>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Ghidra_logo.svg" height="44" alt="Ghidra" />
+  <img src="https://static.cdnlogo.com/logos/i/39/ida.png" height="44" alt="IDA" />
 </p>
 
 ---
