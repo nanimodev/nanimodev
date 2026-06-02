@@ -18,8 +18,8 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=asm" height="44" alt="Assembly" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Ghidra_logo.svg" height="44" alt="Ghidra" />
-  <img src="https://static.cdnlogo.com/logos/i/39/ida.png" height="44" alt="IDA" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ghidra/ghidra-original.svg" height="44" alt="Ghidra" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ida/ida-original.svg" height="44" alt="IDA" />
 </p>
 
 ---
