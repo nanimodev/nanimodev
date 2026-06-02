@@ -10,7 +10,7 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,lua,html,css,js,nodejs,unity,roblox" alt="Tech Stack" />
-  <img src="https://img.shields.io/badge/-ASM-1A1A2E?style=for-the-badge&logoColor=white" height="28" alt="Assembly" />
+  <img src="https://skillicons.dev/icons?i=wasm&perline=1" height="48" alt="Assembly" />
 </p>
 
 <p align="center">
