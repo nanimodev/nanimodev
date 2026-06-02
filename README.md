@@ -9,7 +9,7 @@
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,lua,html,css,js,nodejs,unity,roblox" alt="Tech Stack" /><img src="https://raw.githubusercontent.com/nanimodev/nanimodev/main/assets/asm.svg" height="48" width="48" alt="Assembly" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,lua,html,css,js,nodejs,unity" alt="Tech Stack" /><img src="https://raw.githubusercontent.com/nanimodev/nanimodev/main/assets/asm.svg" height="48" width="48" alt="Assembly" />
 </p>
 
 <p align="center">
