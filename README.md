@@ -17,9 +17,9 @@
 ### 📖 Currently Studying
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=asm" height="40" alt="Assembly" />
-  <img src="https://img.shields.io/badge/-Ghidra-000?style=for-the-badge&logo=ghostery&logoColor=00E5FF" alt="Ghidra" />
-  <img src="https://img.shields.io/badge/-IDA-000?style=for-the-badge&logo=hexo&logoColor=00E5FF" alt="IDA" />
+  <img src="https://skillicons.dev/icons?i=asm" height="44" alt="Assembly" />
+  <img src="https://custom-icon-badges.demolab.com/badge/-Ghidra-1A1A2E?style=for-the-badge&logo=ghidra&logoColor=66FF00" alt="Ghidra" />
+  <img src="https://img.shields.io/badge/-IDA-1A1A2E?style=for-the-badge&logo=hexo&logoColor=FF6B6B" alt="IDA" />
 </p>
 
 ---
@@ -30,7 +30,6 @@
   <img src="https://img.shields.io/badge/-Unity-000?style=for-the-badge&logo=unity&logoColor=white" />
   <img src="https://img.shields.io/badge/-Roblox-000?style=for-the-badge&logo=roblox&logoColor=white" />
   <img src="https://img.shields.io/badge/-Minecraft-000?style=for-the-badge&logo=minecraft&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Vercel-000?style=for-the-badge&logo=vercel&logoColor=white" />
 </p>
 
 ---
