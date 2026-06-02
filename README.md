@@ -10,7 +10,7 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,lua,html,css,js,nodejs,unity,roblox" alt="Tech Stack" />
-  <img src="data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 48 48%22 width=%2248%22 height=%2248%22%3E%3Crect width=%2248%22 height=%2248%22 rx=%228%22 fill=%22%23007ACC%22/%3E%3Ctext x=%2224%22 y=%2229%22 font-family=%22monospace%22 font-size=%2218%22 font-weight=%22bold%22 fill=%22%23fff%22 text-anchor=%22middle%22 letter-spacing=%221%22%3EASM%3C/text%3E%3C/svg%3E" alt="Assembly" />
+  <img src="https://raw.githubusercontent.com/nanimodev/nanimodev/main/assets/asm.svg" height="48" width="48" alt="Assembly" />
 </p>
 
 <p align="center">
