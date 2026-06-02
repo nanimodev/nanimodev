@@ -19,7 +19,7 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=asm" height="44" alt="Assembly" />
   <img src="https://raw.githubusercontent.com/NationalSecurityAgency/ghidra/master/Ghidra/Features/Base/src/main/resources/images/GHIDRA_3.png" height="44" alt="Ghidra" />
-  <img src="https://img.shields.io/badge/IDA-1A1A2E?style=for-the-badge&logo=hexo&logoColor=FF6B6B" alt="IDA" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Mme_de_Maintenon.jpg/44px-Mme_de_Maintenon.jpg" height="44" alt="IDA" />
 </p>
 
 ---
