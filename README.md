@@ -54,15 +54,6 @@
 ### 📊 Contributions
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nanimodev&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nanimodev&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117" height="150" />
-</p>
-
-<p align="center">
   <img src="https://raw.githubusercontent.com/nanimodev/nanimodev/main/assets/snake-dark.svg" alt="Snake Animation" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nanimodev&style=for-the-badge&color=00E5FF" alt="Profile Views" />
 </p>
 
