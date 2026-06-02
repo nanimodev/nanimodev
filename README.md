@@ -10,7 +10,7 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,lua,html,css,js,nodejs,unity,roblox" alt="Tech Stack" />
-  <img src="https://skillicons.dev/icons?i=wasm&perline=1" height="48" alt="Assembly" />
+  <img src="data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 48 48%22 width=%2248%22 height=%2248%22%3E%3Crect width=%2248%22 height=%2248%22 rx=%228%22 fill=%22%23007ACC%22/%3E%3Ctext x=%2224%22 y=%2229%22 font-family=%22monospace%22 font-size=%2218%22 font-weight=%22bold%22 fill=%22%23fff%22 text-anchor=%22middle%22 letter-spacing=%221%22%3EASM%3C/text%3E%3C/svg%3E" alt="Assembly" />
 </p>
 
 <p align="center">
@@ -22,8 +22,8 @@
 ### 📖 Currently Studying
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/NationalSecurityAgency/ghidra/master/Ghidra/Features/Base/src/main/resources/images/GHIDRA_3.png" height="44" alt="Ghidra" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Mme_de_Maintenon.jpg" height="44" alt="IDA" />
+  <img src="https://raw.githubusercontent.com/NationalSecurityAgency/ghidra/master/Ghidra/Features/Base/src/main/resources/images/GHIDRA_3.png" height="48" alt="Ghidra" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Mme_de_Maintenon.jpg" height="48" alt="IDA" />
 </p>
 
 <p align="center">
