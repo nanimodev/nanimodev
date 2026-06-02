@@ -1,41 +1,52 @@
 # 👋 Hey, I'm Jhonny
 
-💻 Backend-focused Developer
-
----
-
-### 🔧 Languages & Tools I Know
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="40" alt="Lua" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=435&lines=Backend-focused+Developer;Game+Reverse+Engineer;Low-level+Enthusiast" alt="Typing SVG" />
 </p>
 
 ---
 
-### 📚 Currently Studying
-<p align="left">
-  <img src="https://user-images.githubusercontent.com/103866722/194773833-8571f323-4fa8-4036-a51c-57b9d29c683b.svg" height="40" alt="Assembly (ASM)" title="Assembly (ASM)" />
-  <img src="https://avatars.githubusercontent.com/u/75212346?v=4" height="40" alt="Ghidra" title="Reverse Engineering" />
-  <img src="https://static.wikitide.net/zenithwiki/0/0d/IDAIcon.png" height="40" alt="IDA" title="Reverse Engineering" />
+### 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,lua,html,css,js,nodejs,unity,roblox" alt="Tech Stack" />
 </p>
 
 ---
 
-### 🎮 Game Development Experience
-- Unity  
-- Roblox  
-- Minecraft (**plugins only**)  
-- Vercel (**deploys and full-stack projects**)  
+### 📖 Currently Studying
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=asm" height="40" alt="Assembly" />
+  <img src="https://img.shields.io/badge/-Ghidra-000?style=for-the-badge&logo=ghostery&logoColor=00E5FF" alt="Ghidra" />
+  <img src="https://img.shields.io/badge/-IDA-000?style=for-the-badge&logo=hexo&logoColor=00E5FF" alt="IDA" />
+</p>
+
+---
+
+### 🎮 Game Dev Experience
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-Unity-000?style=for-the-badge&logo=unity&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Roblox-000?style=for-the-badge&logo=roblox&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Minecraft-000?style=for-the-badge&logo=minecraft&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Vercel-000?style=for-the-badge&logo=vercel&logoColor=white" />
+</p>
 
 ---
 
 ### 🔍 Focus & Interests
-⭐ **Game Reverse Engineering (Assembly & low-level)** — memory, cheat, anti-cheat evasion, engine internals.
+
+> ⭐ **Game Reverse Engineering (Assembly & low-level)** — memory, cheat, anti-cheat evasion, engine internals.
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nanimodev&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nanimodev&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117" height="150" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvs/?username=nanimodev&style=for-the-badge&color=00E5FF" alt="Profile Views" />
+</p>
 
