@@ -63,6 +63,6 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvs/?username=nanimodev&style=for-the-badge&color=00E5FF" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=nanimodev&style=for-the-badge&color=00E5FF" alt="Profile Views" />
 </p>
 
